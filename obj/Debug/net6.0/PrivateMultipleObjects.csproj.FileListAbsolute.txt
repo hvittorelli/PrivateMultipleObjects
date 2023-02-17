@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.exe
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.deps.json
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\bin\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.dll
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\refint\PrivateMultipleObjects.dll
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.pdb
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\PrivateMultipleObjects.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\PrivateMultipleObjects\PrivateMultipleObjects\obj\Debug\net6.0\ref\PrivateMultipleObjects.dll
